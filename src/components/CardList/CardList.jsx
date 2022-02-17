@@ -9,7 +9,7 @@ export const CardList = () => {
     },[])
     return (
         <div>
-            {items.map((item) => <div>{item.id}</div>)}
+            {items.map(({id, image, title, description, species, service, price}) => <Card id={id} image={image} title={title} description={description} species={species} service={service} price={price} key={id}/>)}
         </div>
     )
 }
