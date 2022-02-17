@@ -8,11 +8,9 @@ export const CardList = () => {
     useEffect(() => {
         get().then((data) => setItems(data))
     },[])
-    return (
-        
+    return (        
             <div className={styles.cardList}>
                 {items.map(({id, image, title, description, species, service, price}) => <Card id={id} image={image} title={title} description={description} species={species} service={service} price={price} key={id}/>)}
-            </div>
-        
+            </div>        
     )
 }

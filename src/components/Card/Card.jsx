@@ -10,9 +10,9 @@ export const Card = (props)=>{
                     <div><img src={require(`../../assets/images/${image}.jpg`)} alt="" width="100" height="100" className={styles.fotoperfil}/></div>
                     <div className={styles.description}>{description}</div> 
                     </div>
-                    <div>{service}</div>
-                    <div>{species}</div>
-                    <div>{price}</div>
+                    <div>Servicio: {service}</div>
+                    <div>Especie: {species}</div>
+                    <div>Precio: {price}</div>
                 </div>
             </div>
     );
