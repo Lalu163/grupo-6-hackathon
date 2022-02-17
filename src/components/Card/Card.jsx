@@ -14,12 +14,6 @@ export function Card(props){
         <div>{price}</div>
     </section>
 </div>
-/*<div>
-    <section className={styles.header}>
-        <img src={HelPet} class="appLogo" alt="logotipo"></img>
-    </section>
-</div>*/
-
     );
 
 }
