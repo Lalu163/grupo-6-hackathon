@@ -1,0 +1,26 @@
+[
+    {
+        "id":"1","title": "Lorem Ipsum", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu suscipit ex. Nunc est turpis, dignissim sit amet dui interdum, commodo rhoncus nisi. Mauris vehicula varius magna a mollis. Integer sodales nunc at vehicula finibus. Aenean egestas, est in accumsan interdum, erat nulla dignissim diam", "rating":"4.9", "price_unit":"day", "price": "10"
+    },
+    {
+        "id":"2","title": "Lorem Ipsum", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu suscipit ex. Nunc est turpis, dignissim sit amet dui interdum, commodo rhoncus nisi. Mauris vehicula varius magna a mollis. Integer sodales nunc at vehicula finibus. Aenean egestas, est in accumsan interdum, erat nulla dignissim diam", "rating":"4.9", "price_unit":"day", "price": "10"
+    },
+    {
+        "id":"3","title": "Lorem Ipsum", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu suscipit ex. Nunc est turpis, dignissim sit amet dui interdum, commodo rhoncus nisi. Mauris vehicula varius magna a mollis. Integer sodales nunc at vehicula finibus. Aenean egestas, est in accumsan interdum, erat nulla dignissim diam", "rating":"4.9", "price_unit":"day", "price": "10"
+    },
+    {
+        "id":"4","title": "Lorem Ipsum", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu suscipit ex. Nunc est turpis, dignissim sit amet dui interdum, commodo rhoncus nisi. Mauris vehicula varius magna a mollis. Integer sodales nunc at vehicula finibus. Aenean egestas, est in accumsan interdum, erat nulla dignissim diam", "rating":"4.9", "price_unit":"day", "price": "10"
+    },
+    {
+        "id":"5","title": "Lorem Ipsum", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu suscipit ex. Nunc est turpis, dignissim sit amet dui interdum, commodo rhoncus nisi. Mauris vehicula varius magna a mollis. Integer sodales nunc at vehicula finibus. Aenean egestas, est in accumsan interdum, erat nulla dignissim diam", "rating":"4.9", "price_unit":"day", "price": "10"
+    },
+    {
+        "id":"6","title": "Lorem Ipsum", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu suscipit ex. Nunc est turpis, dignissim sit amet dui interdum, commodo rhoncus nisi. Mauris vehicula varius magna a mollis. Integer sodales nunc at vehicula finibus. Aenean egestas, est in accumsan interdum, erat nulla dignissim diam", "rating":"4.9", "price_unit":"day", "price": "10"
+    },
+    {
+        "id":"7","title": "Lorem Ipsum", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu suscipit ex. Nunc est turpis, dignissim sit amet dui interdum, commodo rhoncus nisi. Mauris vehicula varius magna a mollis. Integer sodales nunc at vehicula finibus. Aenean egestas, est in accumsan interdum, erat nulla dignissim diam", "rating":"4.9", "price_unit":"day", "price": "10"
+    },
+    {
+        "id":"8","title": "Lorem Ipsum", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu suscipit ex. Nunc est turpis, dignissim sit amet dui interdum, commodo rhoncus nisi. Mauris vehicula varius magna a mollis. Integer sodales nunc at vehicula finibus. Aenean egestas, est in accumsan interdum, erat nulla dignissim diam", "rating":"4.9", "price_unit":"day", "price": "10"
+    }
+]
