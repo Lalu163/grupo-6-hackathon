@@ -1,11 +1,12 @@
 .navbar{
-   background-color:#287586;
-   position:absolute;
-   height:811px;
-   width: 375px;
-   right:90px;
-   top:0px;
-   color:white;
+    background-color:#287586;
+    position:fixed;
+    height:100%;
+    width: 30%;
+    right:0px;
+    top:0px;
+    color:white;
+    z-index: 20;
 }
 
 ul{
@@ -21,4 +22,10 @@ li{
 
 li:hover{
     background-color: #2d98ad;
+}
+
+@media (max-width: 1020px) {
+    .navbar {
+        width: 100%;
+    }
 }

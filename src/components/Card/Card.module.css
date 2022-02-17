@@ -4,8 +4,12 @@
     width: 100%;
     margin-top: 20px;
     padding:20px;
+    box-sizing: border-box;
 }
-
+.cardContainer div {
+    font-size: 2rem;
+    color: #000;
+}
 .info{
     display:flex;
     margin-top: 20px;
@@ -16,12 +20,34 @@
     border-radius: 20px;
 }
 
-.title{
+.title {
+    font-size:3rem;
     font-weight: bold;
-    font-size:21px;
+    color: #000;
 }
 
+
 .description{
-    margin-left:20px;
-    margin-top:10px;
+    padding: 1em;
+    font-size: 2rem;
+    color: #000000;
+}
+.bottomInfo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+.bottomInfo div{
+    font-size: 1.5rem;
+}
+
+.bottomInfo button{ 
+    background-color:  #287586;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    border-style: none;
+    font-size: 2rem;
+    color: #fff;
 }
