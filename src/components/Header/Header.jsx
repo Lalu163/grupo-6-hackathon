@@ -10,8 +10,8 @@ function Header(){
         <div className="header">
             {show?<Navbar/>:null}
             <div className={styles.header}>
-             <img src={HelPet} className={styles.logo}></img>
-             <img src={menu} className={styles.menu} onClick={()=>setShow(!show)}></img>
+            <img src={HelPet} className={styles.logo} ></img>
+            <img src={menu} className={styles.menu} onClick={()=>setShow(!show)}></img>
             </div>
             
         </div>

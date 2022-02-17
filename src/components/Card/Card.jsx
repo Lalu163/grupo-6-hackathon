@@ -1,25 +1,18 @@
-import HelPet from "../../assets/icons/HelPet.png"
 import styles from "./Card.module.css"
 
-export function Card(props){
+export const Card = (props)=>{
     const {id, image, title, description, species, service, price} = props
     return(
-<div>
-    <section className={styles.cardContainer}>
-        <div>{title}</div>
-        {/* <div><img src={require(`${image}`)} alt={title}/></div> */}
-        <div>{description}</div>
-        <div>{service}</div>
-        <div>{species}</div>
-        <div>{price}</div>
-    </section>
-</div>
-/*<div>
-    <section className={styles.header}>
-        <img src={HelPet} class="appLogo" alt="logotipo"></img>
-    </section>
-</div>*/
-
+            <div>
+                <div className={styles.cardContainer}>
+                    <div>{title}</div>
+                    <div><img src={require(`../../assets/images/${image}.jpg`)} alt="" width="100" height="100"/></div>
+                    <div>{description}</div> 
+                    <div>{service}</div>
+                    <div>{species}</div>
+                    <div>{price}</div>
+                </div>
+            </div>
     );
 
 }
