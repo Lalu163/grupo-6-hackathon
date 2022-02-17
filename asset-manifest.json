@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/rgrupo-6-hackathon/static/css/main.7fbe537e.css",
+    "main.js": "/rgrupo-6-hackathon/static/js/main.84d69772.js",
+    "static/media/imgPeople6.jpg": "/rgrupo-6-hackathon/static/media/imgPeople6.16f0a67966b15b6daabe.jpg",
+    "static/media/imgPeople4.jpg": "/rgrupo-6-hackathon/static/media/imgPeople4.16242a1ff995a7f6461a.jpg",
+    "static/media/imgPeople1.jpg": "/rgrupo-6-hackathon/static/media/imgPeople1.42c7a0387c5c8eea1f38.jpg",
+    "static/media/imgPeople7.jpg": "/rgrupo-6-hackathon/static/media/imgPeople7.ad393435b9eb885c0c2b.jpg",
+    "static/media/imgPeople5.jpg": "/rgrupo-6-hackathon/static/media/imgPeople5.4f427183b08413f5676e.jpg",
+    "static/media/imgPeople2.jpg": "/rgrupo-6-hackathon/static/media/imgPeople2.3172159aeb1632762540.jpg",
+    "static/media/imgPeople3.jpg": "/rgrupo-6-hackathon/static/media/imgPeople3.466137230a402790ddac.jpg",
+    "static/media/trainer.png": "/rgrupo-6-hackathon/static/media/trainer.39857d53331a3d5505e0.png",
+    "static/media/moon.png": "/rgrupo-6-hackathon/static/media/moon.6648be9c092c8e22018b.png",
+    "static/media/pet-shampoo.png": "/rgrupo-6-hackathon/static/media/pet-shampoo.5fd6aa7d3517fbeab284.png",
+    "static/media/animal-care.png": "/rgrupo-6-hackathon/static/media/animal-care.5d5b8826b124d4472f6e.png",
+    "static/media/imgPeople8.jpg": "/rgrupo-6-hackathon/static/media/imgPeople8.ca66869f66a7c961910c.jpg",
+    "static/media/dog-food.png": "/rgrupo-6-hackathon/static/media/dog-food.8165bc150ccb59ced5b8.png",
+    "static/media/walk.png": "/rgrupo-6-hackathon/static/media/walk.d308833355ffbd463f16.png",
+    "index.html": "/rgrupo-6-hackathon/index.html",
+    "main.7fbe537e.css.map": "/rgrupo-6-hackathon/static/css/main.7fbe537e.css.map",
+    "main.84d69772.js.map": "/rgrupo-6-hackathon/static/js/main.84d69772.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fbe537e.css",
+    "static/js/main.84d69772.js"
+  ]
+}
