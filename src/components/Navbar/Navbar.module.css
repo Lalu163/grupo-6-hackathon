@@ -18,3 +18,7 @@ li{
     font-size: 19px;
     padding:25px;
 }
+
+li:hover{
+    background-color: #2d98ad;
+}

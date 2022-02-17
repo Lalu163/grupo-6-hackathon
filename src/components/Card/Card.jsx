@@ -5,9 +5,11 @@ export const Card = (props)=>{
     return(
             <div>
                 <div className={styles.cardContainer}>
-                    <div>{title}</div>
-                    <div><img src={require(`../../assets/images/${image}.jpg`)} alt="" width="100" height="100"/></div>
-                    <div>{description}</div> 
+                    <div className={styles.title}>{title}</div>
+                    <div className={styles.info}>
+                    <div><img src={require(`../../assets/images/${image}.jpg`)} alt="" width="100" height="100" className={styles.fotoperfil}/></div>
+                    <div className={styles.description}>{description}</div> 
+                    </div>
                     <div>{service}</div>
                     <div>{species}</div>
                     <div>{price}</div>
