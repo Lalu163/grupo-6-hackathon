@@ -1,20 +1,16 @@
 import React from 'react';
 import './App.css';
-import Header from "./components/Header/Header"
-import Searcher from "./components/Searcher/Searcher"
-
-
-import {CardList} from "./components/CardList/CardList"
-import Footer from "./components/Footer/Footer"
-
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import LandingPage from "./Pages/LandingPage/LandingPage"
+import {Detail} from "./Pages/Detail/Detail"
 function App() {
   return (
-    <div className="App">
-      <Header/>
-      <Searcher/>
-      <CardList/>
-      <Footer/>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<LandingPage/>}/>
+        <Route path="/Detail/:id" element={<Detail/>}/>
+      </Routes>
+    </BrowserRouter>
   );
 }
 
